@@ -1,4 +1,4 @@
-# Threejs-Haunted-House
-Haunted House built on Threejs following the course of Bruno Simon called Threejs Journey
+# The Portal has many entrypoints.
+Find your way.
 
 <a href="https://aakashdev.com/">Live</a>
